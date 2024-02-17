@@ -252,6 +252,7 @@
 #sugerencias button:hover{
 
     cursor: pointer;
+    color: #37628B;
 }
 
 #contenedorInicio{
@@ -285,6 +286,10 @@
     left: 320px;
 }
 
+#contenedorTitulo #puntos:hover{
+
+    cursor: pointer;
+}
 #contenedorTitulo #imgInicio{
 
     width: 30px;
